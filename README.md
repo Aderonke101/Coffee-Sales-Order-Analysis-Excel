@@ -135,9 +135,4 @@ Structuring and organizing data for improved analysis.
 📬 Let's Connect!
 
 If you have feedback or questions, feel free to connect with me on:
-
-GitHub
-
-LinkedIn
-
-Medium
+www.linkedin.com/in/aderonkebakare101
